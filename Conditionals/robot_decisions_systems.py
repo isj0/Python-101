@@ -1,5 +1,5 @@
 # Robot movement decision system
-obstacle_type = 'wall'
+obstacle_type = 'gap'
 
 if obstacle_type == 'wall':
     print('Turn around')
